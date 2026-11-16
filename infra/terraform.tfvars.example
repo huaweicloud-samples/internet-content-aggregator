@@ -1,0 +1,3 @@
+region          = "cn-north-4"
+project_name    = "content-agg"
+obs_bucket_name = "content-agg-static"
